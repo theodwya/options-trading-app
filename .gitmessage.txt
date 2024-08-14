@@ -1,0 +1,5 @@
+# Title (50 chars max)
+#
+# Detailed description (72 chars max per line)
+#
+# Issue number (optional)

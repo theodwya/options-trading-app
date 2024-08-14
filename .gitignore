@@ -1,2 +1,26 @@
-# Google App Engine generated folder
-appengine-generated/
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# Django-related
+*.sqlite3
+db.sqlite3
+
+# VSCode-related
+.vscode/
+*.code-workspace
+
+# macOS-related
+.DS_Store
+
+# Windows-related
+Thumbs.db
+
+# Docker-related
+*.log
+docker-compose.override.yml
+
